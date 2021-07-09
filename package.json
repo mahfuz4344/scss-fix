@@ -1,0 +1,12 @@
+{
+  "name": "sss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "scss": "node-sass scss/style.scss style.css -w"
+  },
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
